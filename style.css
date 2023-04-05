@@ -7,14 +7,10 @@
     background-repeat:space;
     background-image : url("image/background.jpeg");
 }
-.minval,.maxval{
+.temp{
     margin:15px;
 }
-.c{
-    background-image : url("image/cards.jpeg");
-   
-    margin: auto;
-}
+
 .img{
     background-color: rgb(223, 223, 175);
     width: fit-content;
@@ -28,4 +24,8 @@
     border-radius: 30px;
     font-size: 30px;
     margin: 20px;
+}
+.image{
+    width:100px;
+    height:100px
 }
