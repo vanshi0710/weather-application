@@ -1,0 +1,31 @@
+.a{
+    background-image : url("image/mainCard.jpeg");
+   
+    margin: auto;
+}
+.b{
+    background-repeat:space;
+    background-image : url("image/background.jpeg");
+}
+.minval,.maxval{
+    margin:15px;
+}
+.c{
+    background-image : url("image/cards.jpeg");
+   
+    margin: auto;
+}
+.img{
+    background-color: rgb(223, 223, 175);
+    width: fit-content;
+    display: block;
+    margin:20px auto;
+}
+.d{
+    background:none;
+    border:2px solid white;
+    color:white;
+    border-radius: 30px;
+    font-size: 30px;
+    margin: 20px;
+}
